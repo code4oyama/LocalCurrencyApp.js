@@ -82,3 +82,12 @@ npm run cap:open:android
 - 初期残高は `10000 LC` です。
 - データは `localStorage` に保存されます。
 - 実運用向けの署名検証・改ざん対策・サーバー連携は未実装です。
+
+## 画面ScreenShot
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 16px; margin: 1.5em 0;">
+  <img src="https://github.com/user-attachments/assets/f94db71c-e6d4-4b81-b5f8-52701a2bfa74" alt="ss1" style="width:25%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+  <img src="https://github.com/user-attachments/assets/25742523-12a9-4383-822b-de91d9239e9f" alt="ss2" style="width:25%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+  <img src="https://github.com/user-attachments/assets/df97411c-0251-4cf9-9afc-1af572acd07e" alt="ss3" style="width:25%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+  <img src="https://github.com/user-attachments/assets/8c6f4010-5726-4f9a-81b4-16e6203ade6e" alt="ss4" style="width:25%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+</div>
