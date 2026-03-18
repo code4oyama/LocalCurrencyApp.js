@@ -1,0 +1,10 @@
+
+open web/index.html
+
+npm install @capacitor/android
+npx cap add android
+
+npm run setup:web
+npx cap sync android
+
+

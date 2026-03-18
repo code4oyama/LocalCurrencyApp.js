@@ -1,0 +1,6 @@
+{
+  "appId": "jp.local.currency.app",
+  "appName": "地域通貨決済",
+  "webDir": "web",
+  "bundledWebRuntime": false
+}
