@@ -91,3 +91,28 @@ npm run cap:open:android
   <img src="https://github.com/user-attachments/assets/df97411c-0251-4cf9-9afc-1af572acd07e" alt="ss3" style="width:25%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
   <img src="https://github.com/user-attachments/assets/8c6f4010-5726-4f9a-81b4-16e6203ade6e" alt="ss4" style="width:25%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
 </div>
+
+## ライセンス
+
+本アプリは「独自ライセンス」に基づき公開しています。
+
+### ライセンス内容
+
+- 利用・複製・改変：自由に行えます。
+- 配布・再配布：禁止します。
+- 商用利用：禁止します。
+- 著作権表示：本アプリの著作権表示を削除しないでください。
+- 無保証：本アプリの利用によるいかなる損害も、作者は一切責任を負いません。
+
+#### 詳細説明
+
+本アプリのソースコードおよび成果物は、個人または組織内での利用・複製・改変は許可しますが、
+第三者への配布や再配布、または商用目的での利用・販売・公開は禁止します。
+また、著作権表示および本ライセンス文は削除せず、必ず残してください。
+
+ご不明点があれば、リポジトリ管理者までご連絡ください。
+
+## 貢献
+
+プルリクエストを歓迎します。大きな変更の場合は、まずissueを開いて変更内容を議論してください。
+
